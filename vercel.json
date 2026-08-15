@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/softonic-site-standalone.html" }
+  ]
+}
