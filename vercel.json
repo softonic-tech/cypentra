@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/softonic-site-standalone.html" }
+    { "source": "/", "destination": "/cypentra-site-standalone.html" }
   ],
   "headers": [
     {
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "source": "/softonic-site-standalone.html",
+      "source": "/cypentra-site-standalone.html",
       "headers": [
         { "key": "X-Robots-Tag", "value": "index, follow" }
       ]
